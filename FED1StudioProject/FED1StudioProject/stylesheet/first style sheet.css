@@ -1,0 +1,26 @@
+﻿body {
+}
+
+header h1 {
+    background-color: greenyellow;
+}
+
+h1 {
+    color: red;
+    font-weight: bold;
+    background-color: greenyellow;
+}
+
+footer {
+    text-style: italic
+}
+
+h2 {
+    color: orangered;
+}
+
+.articlestyle {
+    background-color: aqua
+}
+
+
